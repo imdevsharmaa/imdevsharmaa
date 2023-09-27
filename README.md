@@ -1,7 +1,7 @@
+![logo](https://github.com/imdevsharmaa/imdevsharmaa/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Dev Sharma</h1>
 <h3 align="center">A passionate Cloud & Salesforce Enthusiast from India</h3>
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F14268951-THE-PROFESSOR-Money-Heist&psig=AOvVaw0Qrh1HKSeDvqaRlUgedMLD&ust=1695941896203000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOif-oPyy4EDFQAAAAAdAAAAABAd![image](https://github.com/imdevsharmaa/imdevsharmaa/assets/55921435/86c102ca-2856-487f-8901-02a0778cbb70)
-" alt="coderbhai" widht="300"/>
+<img align="right" src="https://github.com/imdevsharmaa/imdevsharmaa/blob/main/professordribble.jpg" alt="coderbhai" width="500"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdevsharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="imdevsharmaa" /> </p>
 
 - 🔭 I’m currently working on a microservice project **Codewithdev**
