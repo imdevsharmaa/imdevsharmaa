@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dev Sharma</h1>
 <h3 align="center">A passionate Cloud & Salesforce Enthusiast from India</h3>
-<img align="right" alt="coder" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gifcen.com%2Fhacker-gif-8%2F&psig=AOvVaw2z8JXZggKJ5CRH1aLo6Tjp&ust=1695941621777000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiyi4Hxy4EDFQAAAAAdAAAAABAa">
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F14268951-THE-PROFESSOR-Money-Heist&psig=AOvVaw0Qrh1HKSeDvqaRlUgedMLD&ust=1695941896203000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOif-oPyy4EDFQAAAAAdAAAAABAG" align="right" alt="proffesor" width="400">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdevsharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="imdevsharmaa" /> </p>
 
 - 🔭 I’m currently working on a microservice project **Codewithdev**
